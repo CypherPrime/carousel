@@ -16,7 +16,7 @@ Import the necessary classes and modules in your TypeScript file:
 import { Carousel } from "./scripts/Carousel";
 import { CarouselItemModel } from "./scripts/CarouselItemModel";
 
-Copy
+#
 
 Insert at cursor
 typescript
@@ -30,7 +30,7 @@ const carouselItems = [
   // Add more items as needed
 ];
 
-Copy
+#
 
 Insert at cursor
 typescript
@@ -40,7 +40,7 @@ Carousel
 
 const carousel = new Carousel(0, carouselItems);
 
-Copy
+#
 
 Insert at cursor
 typescript
@@ -50,7 +50,7 @@ initialize
 
 carousel.initialize();
 
-Copy
+#
 
 Insert at cursor
 typescript
@@ -63,7 +63,7 @@ previous()
 carousel.next(); // Move to the next item
 carousel.previous(); // Move to the previous item
 
-Copy
+#
 
 Insert at cursor
 typescript
