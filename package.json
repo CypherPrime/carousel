@@ -1,0 +1,22 @@
+{
+  "name": "carousel",
+  "version": "1.0.0",
+  "description": "Carousel library for html using typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CypherPrime/carousel.git"
+  },
+  "keywords": [
+    "carousel"
+  ],
+  "author": "Tamanji Courage",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CypherPrime/carousel/issues"
+  },
+  "homepage": "https://github.com/CypherPrime/carousel#readme"
+}
